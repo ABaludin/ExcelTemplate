@@ -1,0 +1,27 @@
+{
+  "id": "cdf9e7d2-dea1-4833-8405-b1cc55d2c261",
+  "name": "SDoc",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SDoc.com/help/",
+  "showMyCode": true,
+  "target": "Internal",
+  "runtime": "3.0"
+}
